@@ -1,4 +1,3 @@
-<img src="https://drive.google.com/file/d/1NL36Edv9X_Y2WQI7cbp_bS5_AwM1IaQj/view?usp=drive_link"/>
 <h1 align="center">Hi 👋, I'm Shivam Kushwah</h1>
 <h3 align="center">A passionate developer from India</h3>
 
